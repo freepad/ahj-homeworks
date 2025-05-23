@@ -2,8 +2,8 @@
 * весь код в GitHub — публичный репозиторий;
 * на каждую задачу отдельный репозиторий;
 * используется Babel, ESLint, Webpack, Jest;
-* используется AppVeyor в качестве Continuos Deployment;
-* собранная версия frontend выкладывается на GitHub Pages через AppVeyor;
+* используется GitHub Actions в качестве Continuos Deployment;
+* собранная версия frontend выкладывается на GitHub Pages через GitHub Actions;
 * для backend, если его написание предусмотрено условиями задачи:
   * автотесты не требуются,
   * для развёртывания достаточно простой интеграции между Heroku и GitHub,
